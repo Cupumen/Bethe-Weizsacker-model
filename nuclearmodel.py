@@ -5,7 +5,7 @@
 
 
 #Muhamad Rizki Septiawan (G74160006)
-#This code made for my task in Nuclear Physisc Lecture
+#The code was made for my task in Nuclear Physisc Lecture
 
 #importing the libraries
 
